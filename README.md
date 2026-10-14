@@ -17,11 +17,11 @@ Play for a high score and compete for a place on the leaderboard.
 
 ```text
 .
-├── image.png            # Game logo
+├── image.png          
 ├── public/
-│   └── index.html       # Game
+│   └── index.html     
 └── api/
-    └── leaderboard.js   # Leaderboard API
+    └── leaderboard.js   
 ```
 
 ## Deploy to Vercel
